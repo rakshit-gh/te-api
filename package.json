@@ -12,13 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DmsChrisPena/babel-nodejs-setup.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DmsChrisPena/babel-nodejs-setup/issues"
-  },
   "homepage": "https://github.com/DmsChrisPena/babel-nodejs-setup#readme",
   "devDependencies": {
     "babel-cli": "^6.22.2",
